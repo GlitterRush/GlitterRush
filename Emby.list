@@ -1,0 +1,54 @@
+# > 剧狗
+DOMAIN-SUFFIX,ju.dog
+
+# > MisakaF
+DOMAIN-SUFFIX,misakaf.org
+
+# > TreeDiagram
+DOMAIN-SUFFIX,123456.al
+
+# > Mulgore
+DOMAIN-SUFFIX,mgl.gay
+
+# > EMBY 餐厅
+DOMAIN-SUFFIX,mius.uk
+
+# > Misty
+DOMAIN-SUFFIX,misty.ltd
+
+# > 卷毛鼠
+DOMAIN,cf.jmsooo.com
+
+# > 终点站
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub4.emby.wtf
+
+# > Cc
+DOMAIN,cc.ccemby.tk
+DOMAIN-SUFFIX,carryz.net
+
+# > Marmot
+DOMAIN,xl.studyfun.live
+DOMAIN,v.20120714.xyz
+
+# > Dolphin
+DOMAIN,public.emby.ws
+DOMAIN,cu.emby.ws
+
+# > Magpie
+DOMAIN-SUFFIX,magpie.cyou
+DOMAIN-SUFFIX,magpiecdn.eu.org
+
+# > Texon
+DOMAIN-SUFFIX,texon.io
+
+# > 纸片人
+DOMAIN-SUFFIX,embyplus.org
+
+# > NM
+DOMAIN,film.ohhhh.org
+
+# > 魔法
+IP-CIDR,202.61.196.116/32,no-resolve
