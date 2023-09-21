@@ -1,8 +1,5 @@
-# > 剧狗
+# > JUDOG
 DOMAIN-SUFFIX,ju.dog
-
-# > MisakaF
-DOMAIN-SUFFIX,misakaf.org
 
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
@@ -10,11 +7,8 @@ DOMAIN-SUFFIX,123456.al
 # > Mulgore
 DOMAIN-SUFFIX,mgl.gay
 
-# > EMBY 餐厅
+# > 会员制EMBY餐厅
 DOMAIN-SUFFIX,mius.uk
-
-# > Misty
-DOMAIN-SUFFIX,misty.ltd
 
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com
@@ -30,25 +24,19 @@ DOMAIN,cc.ccemby.tk
 DOMAIN-SUFFIX,carryz.net
 
 # > Marmot
-DOMAIN,xl.studyfun.live
-DOMAIN,v.20120714.xyz
-
-# > Dolphin
-DOMAIN,public.emby.ws
-DOMAIN,cu.emby.ws
-
-# > Magpie
-DOMAIN-SUFFIX,magpie.cyou
-DOMAIN-SUFFIX,magpiecdn.eu.org
+DOMAIN-SUFFIX,20120714.xyz
 
 # > Texon
 DOMAIN-SUFFIX,texon.io
 
-# > 纸片人
+# > 纸片人小站
 DOMAIN-SUFFIX,embyplus.org
 
-# > NM
+# > NMEmby
 DOMAIN,film.ohhhh.org
 
-# > 魔法
+# > Magic Cloud
 IP-CIDR,202.61.196.116/32,no-resolve
+
+# > GuGu
+DOMAIN-SUFFIX,gugumedia.link
