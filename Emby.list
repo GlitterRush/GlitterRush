@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,123456.al
 # > Mulgore
 DOMAIN-SUFFIX,mgl.gay
 
-# > 会员制EMBY餐厅
-DOMAIN-SUFFIX,mius.uk
-
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com
 
@@ -36,7 +33,7 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN,film.ohhhh.org
 
 # > Magic Cloud
-IP-CIDR,202.61.196.116/32,no-resolve
+DOMAIN-SUFFIX,freetz.top
 
 # > GuGu
 DOMAIN-SUFFIX,gugumedia.link
