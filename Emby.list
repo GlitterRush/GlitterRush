@@ -1,11 +1,5 @@
-# > JUDOG
-DOMAIN-SUFFIX,ju.dog
-
 # > TreeDiagram
 DOMAIN-SUFFIX,123456.al
-
-# > Mulgore
-DOMAIN-SUFFIX,mgl.gay
 
 # > 卷毛鼠
 DOMAIN,cf.jmsooo.com
@@ -25,6 +19,7 @@ DOMAIN-SUFFIX,20120714.xyz
 
 # > Texon
 DOMAIN-SUFFIX,texon.io
+DOMAIN,ntrrr.am.sb
 
 # > 纸片人小站
 DOMAIN-SUFFIX,embyplus.org
@@ -37,3 +32,6 @@ DOMAIN-SUFFIX,freetz.top
 
 # > GuGu
 DOMAIN-SUFFIX,gugumedia.link
+
+# > 垃圾
+DOMAIN-SUFFIX,xmsl.org
