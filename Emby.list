@@ -5,10 +5,7 @@ DOMAIN-SUFFIX,123456.al
 DOMAIN,cf.jmsooo.com
 
 # > 终点站
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
-DOMAIN,pub4.emby.wtf
+DOMAIN-SUFFIX,emby.wtf
 
 # > Cc
 DOMAIN,cc.ccemby.tk
@@ -35,3 +32,7 @@ DOMAIN-SUFFIX,gugumedia.link
 
 # > 垃圾
 DOMAIN-SUFFIX,xmsl.org
+
+# > Peach
+DOMAIN-SUFFIX,embymv.tk
+IP-CIDR,193.123.232.141/32,no-resolve
