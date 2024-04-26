@@ -24,6 +24,7 @@ DOMAIN,film.ohhhh.org
 
 # > GuGu
 DOMAIN-SUFFIX,gugumedia.link
+DOMAIN-SUFFIX,gug.umedia
 
 # > 垃圾
 DOMAIN-SUFFIX,xmsl.org
@@ -38,3 +39,13 @@ DOMAIN-SUFFIX,lyrebirdemby.com
 
 # > Temby
 DOMAIN,temby.285286.xyz
+
+# > 观影
+DOMAIN-SUFFIX,slove.info
+
+# > Rainbow
+IP-CIDR,152.53.19.231,no-resolve
+
+# > 野兽
+DOMAIN-SUFFIX,mius.uk
+
