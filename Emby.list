@@ -44,7 +44,7 @@ DOMAIN,temby.285286.xyz
 DOMAIN-SUFFIX,slove.info
 
 # > Rainbow
-IP-CIDR,152.53.19.231,no-resolve
+IP-CIDR,152.53.19.231/32,no-resolve
 
 # > 野兽
 DOMAIN-SUFFIX,mius.uk
