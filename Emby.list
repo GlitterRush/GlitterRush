@@ -24,14 +24,14 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN,film.hovervan.org
 
 # > GuGu
-DOMAIN-SUFFIX,gugumedia.link
 DOMAIN-SUFFIX,gugu.media
 
 # > 垃圾
 DOMAIN-SUFFIX,xmsl.org
+DOMAIN-SUFFIX,emby.moe
 
 # > Peach
-DOMAIN-SUFFIX,peachmv.me
+DOMAIN,embymv.tk
 IP-CIDR,193.123.232.141/32,no-resolve
 IP-CIDR,141.147.166.107/32,no-resolve
 
@@ -45,6 +45,8 @@ DOMAIN,temby.285286.xyz
 DOMAIN-SUFFIX,null.hair
 
 # > Rainbow
+DOMAIN,7777777.buzz
+DOMAIN,581658.best
 IP-CIDR,152.53.19.231/32,no-resolve
 
 # > 野兽
