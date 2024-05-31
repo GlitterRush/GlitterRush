@@ -19,6 +19,8 @@ DOMAIN-SUFFIX,ntrrr.top
 
 # > 纸片人小站
 DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,9521732.xyz
+DOMAIN,chirsemby.top
 
 # > NMEmby
 DOMAIN,film.hovervan.org
@@ -29,11 +31,13 @@ DOMAIN-SUFFIX,gugu.media
 # > 垃圾
 DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,loseremby.org
+
 
 # > Peach
 DOMAIN,embymv.tk
 IP-CIDR,193.123.232.141/32,no-resolve
-IP-CIDR,141.147.166.107/32,no-resolve
+IP-CIDR,168.138.45.100/32,no-resolve
 
 # > Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
@@ -45,10 +49,11 @@ DOMAIN,temby.285286.xyz
 DOMAIN-SUFFIX,null.hair
 
 # > Rainbow
-DOMAIN,7777777.buzz
 DOMAIN,581658.best
-IP-CIDR,152.53.19.231/32,no-resolve
 
 # > 野兽
 DOMAIN-SUFFIX,mius.uk
+
+# > SU
+DOMAIN,su.viclub.top
 
