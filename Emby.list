@@ -26,7 +26,8 @@ DOMAIN,chirsemby.top
 DOMAIN,film.hovervan.org
 
 # > GuGu
-DOMAIN-SUFFIX,gugu.media
+DOMAIN,v6.gugu.media
+DOMAIN,main.gugumedia.site
 
 # > 垃圾
 DOMAIN-SUFFIX,xmsl.org
